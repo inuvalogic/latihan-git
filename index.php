@@ -5,10 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Latihan Git</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    saya sedang belajar git
-    asik juga 
-    ternyata belajar git itu
+    <h2>saya sedang belajar git</h2>
+    <p>asik juga </p>
+    <p>ternyata belajar git itu</p>
 </body>
 </html>
