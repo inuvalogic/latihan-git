@@ -1,0 +1,1 @@
+document.getElementById('text').innerHTML = 'text dari js';

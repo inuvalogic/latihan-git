@@ -9,7 +9,9 @@
 </head>
 <body>
     <h2>saya sedang belajar git</h2>
+    <div id="text"></div>
     <p>asik juga </p>
     <p>ternyata belajar git itu</p>
+    <script src="script.js"></script>
 </body>
 </html>
