@@ -8,5 +8,7 @@
 </head>
 <body>
     saya sedang belajar git
+    asik juga 
+    ternyata belajar git itu
 </body>
 </html>
