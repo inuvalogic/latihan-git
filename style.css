@@ -1,8 +1,10 @@
 h2 {
+    font-family: 'Inter', sans-serif;
     font-size: 29px;
-    font-weight: bold;
+    font-weight: 700;
 }
 p {
+    font-family: 'Inter', sans-serif;
     font-size: 13px;
-    font-weight: 100;
+    font-weight: 300;
 }
