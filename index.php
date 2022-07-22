@@ -8,7 +8,9 @@
 </head>
 <body>
     saya sedang belajar git
+    <div id="text"></div>
     asik juga 
     ternyata belajar git itu
+    <script src="script.js"></script>
 </body>
 </html>
